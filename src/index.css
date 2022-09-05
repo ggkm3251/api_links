@@ -18,7 +18,7 @@ main.dark-mode {
   --bg-color-2: rgba(50, 50, 50);
   --bg-color-3: rgba(75, 75, 75);
   --main-font-color: rgb(200, 200, 200);
-  --alt-font-color: rgb(255, 255, 255);
+  --alt-font-color: rgba(255, 255, 255, 0.938);
   --theme-primary: rgba(91, 13, 232, 1);
   --theme-primary-gradient: linear-gradient(
     90deg,
