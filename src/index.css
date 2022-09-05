@@ -40,7 +40,7 @@ body {
 
 main {
   display: grid;
-  max-width: 400px;
+  max-width: 1000px;
   height: 500px;
   margin: 100px auto;
   grid-template-columns: 1fr;
